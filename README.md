@@ -14,13 +14,13 @@ To build the application bundle:
  - find `.apk` file in `composeApp/build/outputs/apk/debug/composeApp-debug.apk`
 Run android UI tests on the connected device: `./gradlew :composeApp:connectedDebugAndroidTest`
 
-# [Show Image for Android ](image/recoredmobile.gif)
+# [Show Image for Android ]
 
 
 
 <div style="display: flex; align-items: center;">
   <img src="image/recoredmobile.gif" alt="Demo GIF" width="150" style="margin-right: 10px;">
-  <span> Show Image for Android.</span>
+  <span>  </span>
 </div
 
 
