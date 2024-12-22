@@ -2,6 +2,8 @@
  
 # Example Splash Screen 
     use Navigation and Animation 
+    
+
 
 ### Android
 To run the application on android device/emulator:  
@@ -11,6 +13,8 @@ To build the application bundle:
  - run `./gradlew :composeApp:assembleDebug`
  - find `.apk` file in `composeApp/build/outputs/apk/debug/composeApp-debug.apk`
 Run android UI tests on the connected device: `./gradlew :composeApp:connectedDebugAndroidTest`
+
+# [Show Video for Android ](videos/recoredmobile.mp4)
 
 ### Desktop
 Run the desktop application: `./gradlew :composeApp:run`
