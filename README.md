@@ -16,6 +16,17 @@ Run android UI tests on the connected device: `./gradlew :composeApp:connectedDe
 
 # [Show Image for Android ](image/recoredmobile.gif)
 
+
+
+<div style="display: flex; align-items: center;">
+  <img src="assets/images/animation.gif" alt="Demo GIF" width="150" style="margin-right: 10px;">
+  <span> Show Image for Android.</span>
+</div
+
+
+
+
+ 
 ### Desktop
 Run the desktop application: `./gradlew :composeApp:run`
 Run desktop UI tests: `./gradlew :composeApp:jvmTest`
