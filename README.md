@@ -14,7 +14,7 @@ To build the application bundle:
  - find `.apk` file in `composeApp/build/outputs/apk/debug/composeApp-debug.apk`
 Run android UI tests on the connected device: `./gradlew :composeApp:connectedDebugAndroidTest`
 
-# [Show Image for Android ](image/recoredmobile.GIF)
+# [Show Image for Android ](image/recoredmobile.gif)
 
 ### Desktop
 Run the desktop application: `./gradlew :composeApp:run`
