@@ -16,6 +16,42 @@ Run android UI tests on the connected device: `./gradlew :composeApp:connectedDe
 
 # [Show Video for Android ](videos/recoredmobile.mp4)
 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Preview</title>
+</head>
+<body>
+    <video controls width="600">
+        <source src="videos/recoredmobile.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Desktop
 Run the desktop application: `./gradlew :composeApp:run`
 Run desktop UI tests: `./gradlew :composeApp:jvmTest`
