@@ -19,14 +19,11 @@ Run android UI tests on the connected device: `./gradlew :composeApp:connectedDe
 
 <div style="display: flex; align-items: center;">
   <img src="image/recoredmobile.gif" alt="Demo GIF" width="150" style="margin-right: 10px;">
-  <span>  </span>
-</div
-
-<div style="display: flex; align-items: center;">
-  <img src="image/image_desktop.gif" alt="Demo GIF" width="150" style="margin-right: 10px;">
    <img src="image/image_desktop.gif" alt="Demo GIF" width="150" style="margin-right: 10px;">
   <span>  </span>
 </div
+
+ 
 
 
 
